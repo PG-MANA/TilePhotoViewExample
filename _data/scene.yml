@@ -1,0 +1,6 @@
+scenes:
+  - nyanpasu
+  - train
+
+entries_per_pages: 6 # should set the value which is common multiple of 2 and 3
+thumbnail_size: 1000

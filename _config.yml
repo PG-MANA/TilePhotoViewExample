@@ -1,0 +1,17 @@
+title: PG_MANA Photo Gallery
+description: 'This is my personal photo gallery(The example gallery of https://github.com/PG-MANA/TilePhotoView)'
+baseurl: "/web/tile_photo_view/"
+url: "https://soft.taprix.org"
+
+author:
+  name: PG_MANA
+
+custom_css:
+  relative:
+    - 'about.css'
+exclude:
+  - README.md
+  - LICENSE
+  - GemfileBuild
+#plugins:
+#  - category-pages

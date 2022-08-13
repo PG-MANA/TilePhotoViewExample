@@ -1,0 +1,60 @@
+/* about.html */
+
+.about_text {
+    text-align: center;
+}
+
+.about_me_title {
+    font-size: 1.2em;
+    height: 30px;
+    margin: 10px;
+}
+
+.about_me {
+    font-size: 0.96em;
+}
+
+.about_me > h4 {
+    margin-bottom: 0.25em;
+}
+
+.about_me > p {
+    margin: 0;
+}
+
+.social_link > a {
+    text-decoration: none;
+}
+
+.social_link > a > img {
+    max-width: 50px;
+    margin-top: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.about_web {
+    font-size: 0.7em;
+}
+
+.about_web > hr {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about_web > p {
+    margin: 0;
+}
+
+@media (max-width: 999px) {
+    .about_img {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .about_img {
+        width: 50%;
+    }
+}
